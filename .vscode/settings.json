@@ -1,3 +1,4 @@
 {
-    "java.configuration.updateBuildConfiguration": "automatic"
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "jdk.runConfig.vmOptions": "C:\\Users\\Mounika Darru\\Downloads\\opencv\\build\\java\\x64"
 }
