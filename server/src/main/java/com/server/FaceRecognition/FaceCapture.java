@@ -1,4 +1,4 @@
-package com.server;
+package com.server.FaceRecognition;
 
 import org.bytedeco.opencv.opencv_core.*;
 import org.bytedeco.opencv.opencv_videoio.VideoCapture;
@@ -12,9 +12,7 @@ import static org.bytedeco.opencv.global.opencv_highgui.*;
 import java.io.File;
 
 public class FaceCapture {
-    public static void main(String[] args) {
-        String classId = "3_4 CSE A1";
-        String studentId = "322106410085";  // change this for each person
+    public static void faceCapture(String classId, String studentId){
 
         CascadeClassifier faceCascade = new CascadeClassifier("server/data/haarcascade_frontalface_alt2.xml");
 

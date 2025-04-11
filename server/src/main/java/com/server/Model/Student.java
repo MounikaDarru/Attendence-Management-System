@@ -2,13 +2,13 @@ package com.server.Model;
 
 import java.util.List;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+@Getter
+@Setter
 public class Student {
     private String rollNo;
     private String name;
@@ -16,4 +16,5 @@ public class Student {
     private String password;
     private String studentClass;
     private List<Subject> subjects;
+
 }

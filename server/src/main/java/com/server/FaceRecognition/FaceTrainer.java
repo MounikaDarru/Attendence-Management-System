@@ -1,4 +1,4 @@
-package com.server;
+package com.server.FaceRecognition;
 
 import org.bytedeco.javacpp.IntPointer;
 import org.bytedeco.opencv.global.opencv_core;
@@ -14,7 +14,7 @@ import static org.bytedeco.opencv.global.opencv_face.*;
 
 public class FaceTrainer {
 
-    public static void main(String[] args) {
+    public static void faceTrainer(){
         String datasetPath = "server/images"; // base directory
         String modelPath = "server/data/faceRecognizerModel.xml"; // save model
         String labelMapPath = "server/data/label_map.txt"; // save label mapping

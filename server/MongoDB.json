@@ -1,0 +1,378 @@
+{
+  "rollNo": "322106410085",
+  "name": "Mounika Darru",
+  "email": "322106410085@andhrauniversity.edu.in",
+  "password": "$2a$10$cqOJ9wOCf6hyqioiODA9Bevzri2ZFhTJzgHcK6VamvClgG3qnBWGa",
+  "studentClass": "3/4 CSE A1",
+  "subjects": [
+    {
+      "name": "ML",
+      "attendence": [
+        {
+          "month": "April",
+          "attendence": [
+            {
+              "date": "10/04/2025",
+              "present": false
+            },
+            {
+              "date": "11/04/2025",
+              "present": false
+            },
+            {
+              "date": "12/04/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        },
+        {
+          "month": "May",
+          "attendence": [
+            {
+              "date": "10/05/2025",
+              "present": false
+            },
+            {
+              "date": "11/05/2025",
+              "present": false
+            },
+            {
+              "date": "12/05/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        }
+      ]
+    },
+    {
+      "name" : "DWDM",
+      "attendence":[
+        {
+          "month": "April",
+          "attendence": [
+            {
+              "date": "10/04/2025",
+              "present": false
+            },
+            {
+              "date": "11/04/2025",
+              "present": false
+            },
+            {
+              "date": "12/04/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        },
+        {
+          "month": "May",
+          "attendence": [
+            {
+              "date": "10/05/2025",
+              "present": false
+            },
+            {
+              "date": "11/05/2025",
+              "present": false
+            },
+            {
+              "date": "12/05/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        }
+      ]
+    },
+    {
+      "name" : "CNS",
+      "attendence":[
+        {
+          "month": "April",
+          "attendence": [
+            {
+              "date": "10/04/2025",
+              "present": false
+            },
+            {
+              "date": "11/04/2025",
+              "present": false
+            },
+            {
+              "date": "12/04/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        },
+        {
+          "month": "May",
+          "attendence": [
+            {
+              "date": "10/05/2025",
+              "present": false
+            },
+            {
+              "date": "11/05/2025",
+              "present": false
+            },
+            {
+              "date": "12/05/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        }
+      ]
+    },
+    {
+      "name" : "ES",
+      "attendence":[
+        {
+          "month": "April",
+          "attendence": [
+            {
+              "date": "10/04/2025",
+              "present": false
+            },
+            {
+              "date": "11/04/2025",
+              "present": false
+            },
+            {
+              "date": "12/04/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        },
+        {
+          "month": "May",
+          "attendence": [
+            {
+              "date": "10/05/2025",
+              "present": false
+            },
+            {
+              "date": "11/05/2025",
+              "present": false
+            },
+            {
+              "date": "12/05/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        }
+      ]
+    },
+    {
+      "name" : "OOSE",
+      "attendence":[
+        {
+          "month": "April",
+          "attendence": [
+            {
+              "date": "10/04/2025",
+              "present": false
+            },
+            {
+              "date": "11/04/2025",
+              "present": false
+            },
+            {
+              "date": "12/04/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        },
+        {
+          "month": "May",
+          "attendence": [
+            {
+              "date": "10/05/2025",
+              "present": false
+            },
+            {
+              "date": "11/05/2025",
+              "present": false
+            },
+            {
+              "date": "12/05/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        }
+      ]  
+    },
+    {
+      "name" : "OOSE Lab",
+      "attendence":[
+        {
+          "month": "April",
+          "attendence": [
+            {
+              "date": "10/04/2025",
+              "present": false
+            },
+            {
+              "date": "11/04/2025",
+              "present": false
+            },
+            {
+              "date": "12/04/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        },
+        {
+          "month": "May",
+          "attendence": [
+            {
+              "date": "10/05/2025",
+              "present": false
+            },
+            {
+              "date": "11/05/2025",
+              "present": false
+            },
+            {
+              "date": "12/05/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        }
+      ]  
+    },
+    {
+      "name" : "ES Lab",
+      "attendence":[
+        {
+          "month": "April",
+          "attendence": [
+            {
+              "date": "10/04/2025",
+              "present": false
+            },
+            {
+              "date": "11/04/2025",
+              "present": false
+            },
+            {
+              "date": "12/04/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        },
+        {
+          "month": "May",
+          "attendence": [
+            {
+              "date": "10/05/2025",
+              "present": false
+            },
+            {
+              "date": "11/05/2025",
+              "present": false
+            },
+            {
+              "date": "12/05/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        }
+      ]  
+    },
+    {
+      "name" : "CNS Lab",
+      "attendence":[
+        {
+          "month": "April",
+          "attendence": [
+            {
+              "date": "10/04/2025",
+              "present": false
+            },
+            {
+              "date": "11/04/2025",
+              "present": false
+            },
+            {
+              "date": "12/04/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        },
+        {
+          "month": "May",
+          "attendence": [
+            {
+              "date": "10/05/2025",
+              "present": false
+            },
+            {
+              "date": "11/05/2025",
+              "present": false
+            },
+            {
+              "date": "12/05/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        }
+      ]  
+    },
+    {
+      "name" : "ML Lab",
+      "attendence":[
+        {
+          "month": "April",
+          "attendence": [
+            {
+              "date": "10/04/2025",
+              "present": false
+            },
+            {
+              "date": "11/04/2025",
+              "present": false
+            },
+            {
+              "date": "12/04/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        },
+        {
+          "month": "May",
+          "attendence": [
+            {
+              "date": "10/05/2025",
+              "present": false
+            },
+            {
+              "date": "11/05/2025",
+              "present": false
+            },
+            {
+              "date": "12/05/2025",
+              "present": false
+            }
+          ],
+          "totalPresent": 0
+        }
+      ]  
+    }
+  ]
+}
